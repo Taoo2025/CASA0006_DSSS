@@ -1,0 +1,4 @@
+model,baseline_f1,enhanced_f1,baseline_roc_auc,enhanced_roc_auc
+Logistic Regression,0.512804,0.521524,0.735051,0.736503
+Random Forest,0.570522,0.571734,0.787557,0.792765
+XGBoost,0.573366,0.573508,0.786366,0.788571
